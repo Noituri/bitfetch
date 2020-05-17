@@ -1,3 +1,5 @@
+# It's just a fork. Main repo [here](https://gitlab.com/bit9tream/bitfetch/-/tree/master)
+
 # bitfetch - simple cli system information tool written in C
 
 ```shell
